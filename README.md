@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <title>🕰️ ساعت آنالوگ</title>
   <style>
-    body {
+    ody {
       margin: 0;
       height: 100vh;
       display: flex;
