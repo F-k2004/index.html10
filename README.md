@@ -5,7 +5,7 @@
   <title>🕰️ ساعت آنالوگ</title>
   <style>
     body {
-      margin: 0;
+      argin: 0;
       height: 100vh;
       display: flex;
       justify-content: center;
